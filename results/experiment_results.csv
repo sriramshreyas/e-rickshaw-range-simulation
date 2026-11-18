@@ -1,0 +1,8 @@
+Scenario,Range_km,Driving_hours,Avg_speed_kmh,Wh_per_km
+Baseline,120.8,6.7,18,45.8
+Regen OFF,86.2,4.78,18,64.1
+1 passenger,109.6,6.08,18,50.4
+2 passengers,100.3,5.57,18,55.1
+3 passengers,92.5,5.14,18,59.8
+3 packs,89.6,4.97,18,46.3
+2 packs,58.6,3.25,18,47.1
